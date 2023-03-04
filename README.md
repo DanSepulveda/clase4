@@ -23,4 +23,4 @@ kjkljakdjsalkjadsda
 
 ## Agradecimientos
 
-jkdjkdasjkdajkdas. Se agradece ......
+jkdjkdasjkdajkdas. Se agradece a Pedrito
