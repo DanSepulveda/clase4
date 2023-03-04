@@ -6,7 +6,7 @@ Esta es la descripción de mi proyecto
 
 Bueno, este es mi proyecto.....
 
-## Descripción basica
+## Descripción avanzada
 
 <!-- titulo h2 -->
 
