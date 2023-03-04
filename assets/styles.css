@@ -6,3 +6,8 @@ nav{
 nav a{
     color: white;
 }
+
+h2{
+    color: red;
+    font: 50px;
+}
