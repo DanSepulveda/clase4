@@ -12,6 +12,8 @@ Bueno, este es mi proyecto.....
 
 **Prueba1** _prueba2_
 
+para poder hacer commit, debes ejecutar el comando `git commit -m "mensaje"`
+
 jasdksjadksjakdlsajlkdas
 [Demostración](https://www.gogle.cl)
 
